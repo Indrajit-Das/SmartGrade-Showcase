@@ -1,0 +1,259 @@
+{
+  "classes": [
+    {
+      "class_name": "Class One",
+      "students": [
+        {
+          "id": 1,
+          "name": "Aarif Hassan",
+          "scores": "A+",
+          "percentage": "80%",
+          "avatar": "avatar.png",
+          "alt": "Aarif Hassan"
+        },
+        {
+          "id": 2,
+          "name": "Nusrat Jahan",
+          "scores": "A",
+          "percentage": "70%",
+          "avatar": "Nusrat Jahan.png",
+          "alt": "Nusrat Jahan"
+        },
+        {
+          "id": 3,
+          "name": "Rafiqul Islam",
+          "scores": "A",
+          "percentage": "70%",
+          "avatar": "Rafiqul Islam.png",
+          "alt": "Rafiqul Islam"
+        },
+        {
+          "id": 4,
+          "name": "Farhana Akter",
+          "scores": "A+",
+          "percentage": "80%",
+          "avatar": "Farhana Akter.png",
+          "alt": "Farhana Akter"
+        },
+        {
+          "id": 5,
+          "name": "Imran Hossain",
+          "scores": "B",
+          "percentage": "50%",
+          "avatar": "Imran Hossain.png",
+          "alt": "Imran Hossain"
+        },
+        {
+          "id": 6,
+          "name": "Anika Chowdhury",
+          "scores": "A+",
+          "percentage": "80%",
+          "avatar": "Anika Chowdhury.png",
+          "alt": "Anika Chowdhury"
+        },
+        {
+          "id": 7,
+          "name": "Zahid Hasan",
+          "scores": "A+",
+          "percentage": "80%",
+          "avatar": "Zahid Hasan.png",
+          "alt": "Zahid Hasan"
+        },
+        {
+          "id": 8,
+          "name": "Shabnam Akhter",
+          "scores": "A",
+          "percentage": "70%",
+          "avatar": "Shabnam Akhter.png",
+          "alt": "Shabnam Akhter"
+        },
+        {
+          "id": 9,
+          "name": "Arif Ahmed",
+          "scores": "A+",
+          "percentage": "80%",
+          "avatar": "Arif Ahmed.png",
+          "alt": "Arif Ahmed"
+        },
+        {
+          "id": 10,
+          "name": "Shahnaz Parveen",
+          "scores": "A-",
+          "percentage": "60%",
+          "avatar": "Shahnaz Parveen.png",
+          "alt": "Shahnaz Parveen"
+        }
+      ]
+    },
+    {
+      "class_name": "Class Two",
+      "students": [
+        {
+          "id": 1,
+          "name": "Saiful Islam",
+          "scores": "A",
+          "percentage": "70%",
+          "avatar": "Imran Hossain.png",
+          "alt": "Saiful Islam"
+        },
+        {
+          "id": 2,
+          "name": "Tasnim Rahman",
+          "scores": "B",
+          "percentage": "50%",
+          "avatar": "Anika Chowdhury.png",
+          "alt": "Tasnim Rahman"
+        },
+        {
+          "id": 3,
+          "name": "Akramul Haque",
+          "scores": "A+",
+          "percentage": "80%",
+          "avatar": "Zahid Hasan.png",
+          "alt": "Akramul Haque"
+        },
+        {
+          "id": 4,
+          "name": "Tanjila Akhter",
+          "scores": "A+",
+          "percentage": "80%",
+          "avatar": "Shabnam Akhter.png",
+          "alt": "Tanjila Akhter"
+        },
+        {
+          "id": 5,
+          "name": "Sohel Rana",
+          "scores": "A",
+          "percentage": "70%",
+          "avatar": "Arif Ahmed.png",
+          "alt": "Sohel Rana"
+        },
+        {
+          "id": 6,
+          "name": "Sabina Yasmin",
+          "scores": "A-",
+          "percentage": "60%",
+          "avatar": "Shahnaz Parveen.png",
+          "alt": "Sabina Yasmin"
+        },
+        {
+          "id": 7,
+          "name": "Mahbubul Alam",
+          "scores": "A+",
+          "percentage": "80%",
+          "avatar": "avatar.png",
+          "alt": "Mahbubul Alam"
+        },
+        {
+          "id": 8,
+          "name": "Yasir Arafat",
+          "scores": "A+",
+          "percentage": "80%",
+          "avatar": "Rafiqul Islam.png",
+          "alt": "Yasir Arafat"
+        },
+        {
+          "id": 9,
+          "name": "Nargis Sultana",
+          "scores": "B",
+          "percentage": "50%",
+          "avatar": "Farhana Akter.png",
+          "alt": "Nargis Sultana"
+        },
+        {
+          "id": 10,
+          "name": "Anwar Hossain",
+          "scores": "A-",
+          "percentage": "00%",
+          "avatar": "Imran Hossain.png",
+          "alt": "Anwar Hossain"
+        }
+      ]
+    },
+    {
+      "class_name": "Class Three",
+      "students": [
+        {
+          "id": 1,
+          "name": "Sharmin Akter",
+          "scores": "A+",
+          "percentage": "80%",
+          "avatar": "Farhana Akter.png",
+          "alt": "Sharmin Akter"
+        },
+        {
+          "id": 2,
+          "name": "Shamim Ahmed",
+          "scores": "A+",
+          "percentage": "80%",
+          "avatar": "Imran Hossain.png",
+          "alt": "Shamim Ahmed"
+        },
+        {
+          "id": 3,
+          "name": "Roksana Begum",
+          "scores": "A-",
+          "percentage": "60%",
+          "avatar": "Anika Chowdhury.png",
+          "alt": "Roksana Begum"
+        },
+        {
+          "id": 4,
+          "name": "Zahirul Islam",
+          "scores": "A-",
+          "percentage": "80%",
+          "avatar": "Zahid Hasan.png",
+          "alt": "Zahirul Islam"
+        },
+        {
+          "id": 5,
+          "name": "Fahima Akhter",
+          "scores": "F",
+          "percentage": "30%",
+          "avatar": "Shabnam Akhter.png",
+          "alt": "Fahima Akhter"
+        },
+        {
+          "id": 6,
+          "name": "Masud Rana",
+          "scores": "A+",
+          "percentage": "80%",
+          "avatar": "Arif Ahmed.png",
+          "alt": "Masud Rana"
+        },
+        {
+          "id": 7,
+          "name": "Nazma Akter",
+          "scores": "A+",
+          "percentage": "80%",
+          "avatar": "Shahnaz Parveen.png",
+          "alt": "Nazma Akter"
+        },
+        {
+          "id": 8,
+          "name": "Monirul Islam",
+          "scores": "F",
+          "percentage": "30%",
+          "avatar": "avatar.png",
+          "alt": "Monirul Islam"
+        },
+        {
+          "id": 9,
+          "name": "Shila Khan",
+          "scores": "A+",
+          "percentage": "80%",
+          "avatar": "Nusrat Jahan.png",
+          "alt": "Shila Khan"
+        },
+        {
+          "id": 10,
+          "name": "Kazi Rahma",
+          "scores": "B",
+          "percentage": "50%",
+          "avatar": "Rafiqul Islam.png",
+          "alt": "Kazi Rahma"
+        }
+      ]
+    }
+  ]
+}
